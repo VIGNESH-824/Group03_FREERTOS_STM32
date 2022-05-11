@@ -7,3 +7,4 @@
 |Vignesh Bhat|99007866|vigneshb824@gmail.com|
 |Anushri Daryapurkar|99007836|anushridaryapurkar@gmail.com|
 |Vaishnavi Borikar|99007872|vaishnaviv195@gmail.com|
+|Ritik Rahangdale|99007852|ritikrahangdale633@gmail.com|
